@@ -459,7 +459,8 @@ class: center, middle, inverse
 
 * Danilo Freire:
 
+  - Senior Lecturer, University of Lincoln
   - [danilofreire@gmail.com](mailto:danilofreire@gmail.com)
   - <http://danilofreire.github.io>
-  - <http://github.com/danilofreire/apmbb-2021>
+  - <http://github.com/danilofreire/omma2021>
 
